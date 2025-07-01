@@ -1,0 +1,1 @@
+Esta es una carpeta que contendrá los archivos del curso de laboratorio de optimización no lineal. 
